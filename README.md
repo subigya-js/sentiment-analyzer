@@ -1,1 +1,1 @@
-### Face detection in client-side using Transformer.js Hugging face modal
+### Sentiment analysis in client-side using Transformer.js Hugging face modal
